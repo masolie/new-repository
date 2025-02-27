@@ -1,4 +1,2 @@
-"""
-
-
-"""
+Finnes ingen kont. funksjoner representert av datamaskiner. Er alltid en steglengde
+Bruker numeriske metoder
